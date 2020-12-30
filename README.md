@@ -12,13 +12,13 @@ The following dependencies need to be installed/configured and must be on the MA
 In order to reproduce the simulations and plots of the paper, navigate inside the `case_study` folder and run the `generatePlotsCaseStudy` MATLAB function. The function will run all the necessary simulations and produce all the plots of the paper. The plots will also be saved under a `plots` folder in TikZ format, which can then be readily included in a LaTeX document.
 
 ## Citing this work
-Please cite the original thesis when using any part of this code. BibTeX citation data:
+Please cite the original paper when using any part of this code. BibTeX citation data:
 ```
 @inproceedings{Lefkopoulos2019,
-	author	  = "V. Lefkopoulos and M. Kamgarpour",
-	title	  = "Using Uncertainty Data in Chance-Constrained Trajectory Planning",
-	booktitle = "2019 European Control Conference ({ECC})",
-	year	  = "2019",
-	pages	  = "2264-2269",
+    author	  = "V. Lefkopoulos and M. Kamgarpour",
+    title	  = "Using Uncertainty Data in Chance-Constrained Trajectory Planning",
+    booktitle = "2019 European Control Conference ({ECC})",
+    year	  = "2019",
+    pages	  = "2264-2269",
 }
 ```
