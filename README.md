@@ -15,10 +15,10 @@ In order to reproduce the simulations and plots of the paper, navigate inside th
 Please cite the original paper when using any part of this code. BibTeX citation data:
 ```
 @inproceedings{Lefkopoulos2019,
-    author	  = "V. Lefkopoulos and M. Kamgarpour",
-    title	  = "Using Uncertainty Data in Chance-Constrained Trajectory Planning",
+    author    = "V. Lefkopoulos and M. Kamgarpour",
+    title     = "Using Uncertainty Data in Chance-Constrained Trajectory Planning",
     booktitle = "2019 European Control Conference ({ECC})",
-    year	  = "2019",
-    pages	  = "2264-2269",
+    year      = "2019",
+    pages     = "2264-2269",
 }
 ```
